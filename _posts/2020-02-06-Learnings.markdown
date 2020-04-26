@@ -7,10 +7,9 @@ categories: learnings
 
 
 
-The answer is quite easy. Let me put it in a lovely aphorism:
-If you've given the same advice twice, write a blog post.
-If you've done the same ... twice, write a code.
-\\
-\\
-\\
+Let me put it in an aphorism I once read on twitter:  
+If you've given the same advice twice, write a blog post.  
+If you've written the same code twice, write a definition.  
+
+ 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
@@ -13,15 +13,16 @@ Find out more about
 * my talks and conferences [verlinken]
 * my job as a coordinator for the master programme in Digital Humanities [verlinken]
 
-If there is anything you are interested in which is not listed, send me an email to
-peggy.bockwinkel(at)ilw.uni-stuttgart.de
-
-
-
-
-
-
-
+If there is anything you are interested in and which is not listed, send an email to
+peggy.bockwinkel(at)ilw.uni-stuttgart.de  
+  
+  
+  
+   
+  
+________________________
+   
+   
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

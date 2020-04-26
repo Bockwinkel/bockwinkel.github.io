@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CV
+title: cv
 permalink: /cv/
 ---
 
-Here comes my cv. 
+Here comes my cv - one day. 
 
 

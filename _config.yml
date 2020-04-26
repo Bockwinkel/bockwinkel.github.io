@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bockwinkel Research
-email: peggy.bockwinkel@ilw.uni-stuttgart.de
+email: peggy.bockwinkel(at)gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Peggy Bockwinkels Academic Research Site. I am a Digital Humanist coming 
-  from German Literary Studies and Linguistics, interested in deixis, quantitative methods 
+  This is Peggy Bockwinkel's academic research site. I am a digital humanist coming 
+  from german literary studies and linguistics, interested in deixis, quantitative methods 
   and how to save the world.  
 # You can edit this line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
