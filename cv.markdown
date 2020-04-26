@@ -4,6 +4,6 @@ title: cv
 permalink: /cv/
 ---
 
-Here comes my cv - one day. 
+Looking forward to read my cv here. 
 
 
